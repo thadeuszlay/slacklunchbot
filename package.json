@@ -1,0 +1,24 @@
+{
+  "name": "slacklunchbot",
+  "version": "1.0.0",
+  "description": "slack bot lunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thadeuszlay/slacklunchbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "lunch"
+  ],
+  "author": "thadeuszlay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thadeuszlay/slacklunchbot/issues"
+  },
+  "homepage": "https://github.com/thadeuszlay/slacklunchbot#readme"
+}
