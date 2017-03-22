@@ -1,5 +1,4 @@
 var slackTerminal = require('slack-terminalize');
-var config = require('./config/config.json');
 
 slackTerminal.init(process.env.SLACK_TOKEN, {
   // slack rtm client options here
